@@ -1,0 +1,4 @@
+list1=["","verde","rojo","azul","amarillo"]
+print("lista 1=",list1)
+a= list1.index("azul")
+print("azul esta en la posicion",a,"de la lista")
