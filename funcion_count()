@@ -1,0 +1,4 @@
+list1=["paraguay","peru","paraguay","colombia"]
+print("lista 1=",list1)
+a= list1.count("paraguay")
+print("paraguay aparece",a,"veces en la lista")
