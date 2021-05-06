@@ -1,0 +1,4 @@
+animales=["caballo","lobo","gato"]
+print("lista original",animales)
+animales.append("perro")
+print("lista nueva:",animales)
