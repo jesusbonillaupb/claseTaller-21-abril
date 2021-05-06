@@ -1,0 +1,4 @@
+list1=[1,2,3,4,5,6,7]
+print("lista 1=",list1)
+list1.remove(2)
+print("nueva lista 1=",list1)
