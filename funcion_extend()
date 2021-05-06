@@ -1,0 +1,6 @@
+list1=["colombia","mexico"]
+print("lista 1=",list1)
+list2=["chile","peru"]
+print("lista 2=",list2)
+list1.extend(list2)
+print("lista 1 y lista 2 combinadas",list1)
